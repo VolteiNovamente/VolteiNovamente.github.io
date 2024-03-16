@@ -24,11 +24,11 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Discord',
-      link: 'https://discord.com/invite/723',
+      link: 'https://discord.gg/BSPpFFUYq5',
     },
     {
       name: 'Doxbin',
-      link: 'https://doxbin.net/user/723',
+      link: 'https://doxbin.net/user/373',
     },
   ];
 
